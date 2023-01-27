@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import "./test.css"
+import "../test.css"
 // const Test =()=>{
 //     return (
 //         <div>
@@ -39,4 +39,3 @@ const Test=({name="",setName})=>{
   </>)
 }
 export default Test;
-
